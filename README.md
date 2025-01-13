@@ -5,6 +5,19 @@ Sevgi Albümü, sevdiklerinizle olan özel anılarınızı dijital ortamda sakla
 ![Flutter Version](https://img.shields.io/badge/Flutter-3.6.0-blue)
 ![Dart Version](https://img.shields.io/badge/Dart-3.0.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-1.0.2-orange)
+
+## 📲 APK İndirme Bağlantısı
+
+Uygulamayı Android cihazınıza yüklemek için aşağıdaki bağlantıyı kullanabilirsiniz:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1HdhPxOLa9FG2s_3Mv0ZxK5LuXMWuKDMB/view?usp=sharing)
+
+### Kurulum Adımları
+1. APK dosyasını indirin
+2. Android cihazınızda "Bilinmeyen kaynaklar"dan yüklemeye izin verin
+3. İndirilen APK dosyasını açın ve yükleyin
+4. Uygulamayı başlatın ve anılarınızı kaydetmeye başlayın!
 
 ## ✨ Özellikler
 
