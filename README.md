@@ -53,7 +53,7 @@ Uygulamayı Android cihazınıza yüklemek için aşağıdaki bağlantıyı kull
    git clone https://github.com/kerimayvaz77/Sevgi_Albumu.git
    
    # Proje dizinine gidin
-   cd sevgi_albumu
+   cd Sevgi_Albumu
    ```
 
 3. **Bağımlılıkları Yükleyin**
